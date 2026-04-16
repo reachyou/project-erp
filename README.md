@@ -77,6 +77,9 @@
 如需获取完整源码、定制开发或企业级部署支持，请联系：
 邮箱：sxq@reachyou.cn
 
+### 代码以及系统试用体验咨询：
+![微信客服](./images/kefu.jpg)
+
 ## 📸 截图预览
 ![工作端](./images/gzd.png)
 ![供应商](./images/gys.png)
