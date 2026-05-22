@@ -1,0 +1,11 @@
+.DS_Store
+.svn/
+.vs/
+*.user
+*.suo
+bin/
+obj/
+Debug/
+Release/
+packages/
+*.log
